@@ -1,9 +1,11 @@
+import React from 'react';
+
 const TestPage = () => {
-    return (
+  return (
     <div>
-        This is a test page
+      This is the test page.
     </div>
-    );
-    
-    }
+  );
+}
+
 export default TestPage;
